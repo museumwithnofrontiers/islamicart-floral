@@ -1,6 +1,29 @@
 {
-  "legacy": "TODO(dataset): run inventory-app's scripts/minisites/legacy-minisite.mjs",
+  "legacy": "https://islamicart.museumwnf.org/exhibitions/ISL/floral/",
   "menuSecondColumnFrom": 7,
-  "curators": [],
+  "curators": [
+    {
+      "partner": "c0c2fa4f-c38c-578e-8cc1-4703cc60b8a9",
+      "logo": "legacy/TR-28.gif",
+      "space": 23
+    },
+    {
+      "name": "EGE University, Izmir",
+      "country": "tur",
+      "href": "#",
+      "logo": "legacy/TU-28.gif",
+      "space": 15
+    },
+    {
+      "partner": "01ed0e00-4aed-5afc-bdea-937514669d4b",
+      "logo": "legacy/VA-28.gif",
+      "space": 25
+    },
+    {
+      "partner": "5db20458-bdcf-5050-98fb-3fb2d1392a0a",
+      "logo": "legacy/SE-28.gif",
+      "space": 30
+    }
+  ],
   "maps": 0
 }
